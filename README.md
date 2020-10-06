@@ -1,6 +1,5 @@
 # Advanced Adjustment Computation
-
-####  고급조정계산론 / 2020-1 수강
+고급조정계산론 / 2020-1 수강
 
 
 ## Coordinate_Transform_General_LSE
@@ -16,4 +15,3 @@
 - 가중최소제곱법을 이용한 수평망조정 프로그램
 - C++ / MFC
 
-![Horizontal_Surveys](https://photos.app.goo.gl/crPPD5DWgAZRda7w9)
