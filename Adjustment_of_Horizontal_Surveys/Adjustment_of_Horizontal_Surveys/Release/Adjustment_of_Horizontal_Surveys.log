@@ -1,0 +1,8 @@
+﻿빌드 시작: 2020-10-06 오후 4:11:15
+     1>2 노드의 "D:\1.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\Adjustment_of_Horizontal_Surveys\Adjustment_of_Horizontal_Surveys\Adjustment_of_Horizontal_Surveys.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(376,5): error MSB8031: Building an MFC project for a non-Unicode character set is deprecated. You must change the project property to Unicode or download an additional library. See http://go.microsoft.com/fwlink/p/?LinkId=286820 for more information.
+     1>"D:\1.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\Adjustment_of_Horizontal_Surveys\Adjustment_of_Horizontal_Surveys\Adjustment_of_Horizontal_Surveys.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.01

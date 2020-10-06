@@ -1,0 +1,3 @@
+6번SixAve	인하1	Seoul	270	0	0	3.0
+Bottom2nd	공대Engr001	인하1	180	0	0	3.0
+Seoul	공대Engr001	Yong253	90	0	0	3.0

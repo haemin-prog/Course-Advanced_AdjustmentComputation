@@ -1,0 +1,9 @@
+﻿  General_LSE.cpp
+c:\users\haemin\desktop\4.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\general_lse\general_lse\general_lse.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\haemin\desktop\4.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\general_lse\general_lse\general_lse.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haemin\desktop\4.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\general_lse\general_lse\general_lse.cpp(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  General_LSE.vcxproj -> C:\Users\Haemin\Desktop\4.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\General_LSE\Debug\General_LSE.exe
+  General_LSE.vcxproj -> C:\Users\Haemin\Desktop\4.인하대\2020년 1학기 (4학년 1학기)\고급조정계산론\General_LSE\Debug\General_LSE.pdb (Full PDB)
